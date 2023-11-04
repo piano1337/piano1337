@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **piano1337/piano1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# piano
+### piano
 I go by the alias 'piano', singaporean. I do programming as a hobby. I use mostly Lua.
 
 owner & dev @ atlascript
