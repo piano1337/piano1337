@@ -19,3 +19,5 @@ I go by the alias 'piano', singaporean. I do programming as a hobby. I use mostl
 owner & dev @ atlascript
 
 [![wakatime](https://wakatime.com/badge/user/018b9c9a-ef58-44d0-aeb8-e99b6fd6d9e9.svg)](https://wakatime.com/@at)
+
+[![wakatime](https://wakatime.com/share/@at/dbee9ce9-7cde-415d-97c5-0939a3640458.svg)](https://wakatime.com/@at)
