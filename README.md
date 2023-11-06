@@ -20,4 +20,4 @@ owner & dev @ atlascript
 
 [![wakatime](https://wakatime.com/badge/user/018b9c9a-ef58-44d0-aeb8-e99b6fd6d9e9.svg)](https://wakatime.com/@at)
 
-[![wakatime](https://wakatime.com/share/@at/dbee9ce9-7cde-415d-97c5-0939a3640458.svg)](https://wakatime.com/@at)
+[![wakatime](https://wakatime.com/share/@at/15df36e8-1303-449a-ba12-556b30915f91.svg)](https://wakatime.com/@at)
