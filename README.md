@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # piano
-I go by the alias 'piano', singaporean. I do programming as a hobby. I use mostly Lua.
-
-owner & dev @ [signus.dev](https://signus.dev)
+I go by the alias 'piano', singaporean. I do programming as a hobby. I use mostly Java, JavaScript, Python, Lua.
 
 [![wakatime](https://wakatime.com/badge/user/018b9c9a-ef58-44d0-aeb8-e99b6fd6d9e9.svg)](https://wakatime.com/@at)
 
