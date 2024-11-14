@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 I go by the alias 'piano', singaporean. I do programming as a hobby. I use mostly Java, JavaScript, Python, Lua.
 
 ![](https://komarev.com/ghpvc/?username=piano1337&style=flat)\
-[![wakatime](https://wakatime.com/badge/user/018b9c9a-ef58-44d0-aeb8-e99b6fd6d9e9.svg)](https://wakatime.com/@at)
-
+[![wakatime](https://wakatime.com/badge/user/018b9c9a-ef58-44d0-aeb8-e99b6fd6d9e9.svg)](https://wakatime.com/@at)\
 [![wakatime](https://wakatime.com/share/@at/15df36e8-1303-449a-ba12-556b30915f91.svg)](https://wakatime.com/@at)
